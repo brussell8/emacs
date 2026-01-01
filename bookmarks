@@ -1,0 +1,17 @@
+;;;; Emacs Bookmark Format Version 1;;;; -*- coding: utf-8-emacs; mode: lisp-data -*-
+;;; This format is meant to be slightly human-readable;
+;;; nevertheless, you probably don't want to edit it.
+;;; -*- End Of Bookmark File Format Version Stamp -*-
+(("Agenda commands"
+ (front-context-string . "11.5 Commands in")
+ (rear-context-string . ": Agenda Views\n\n")
+ (position . 353331)
+ (filename . "/Users/btr/.emacs.d/elpa/org-20210322/org")
+ (info-node . "Agenda Commands")
+ (handler . Info-bookmark-jump))
+("org-capture-last-stored"
+ (filename . "~/Dropbox/org/atoms.org")
+ (front-context-string . "**** Test\n:PROPE")
+ (rear-context-string . "24-03-01 Friday\n")
+ (position . 227))
+)

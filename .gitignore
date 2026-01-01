@@ -1,0 +1,17 @@
+# Files in .emacs.d/ we want git repository to ignore #
+
+# OS generated files #
+
+.DS_Store
+.DS_Store?
+
+# Backups #
+backup/
+.cache/
+
+# Packages #
+Emacs-30.1-universal.dmg
+elpa/
+
+# Miscellaneous #
+
